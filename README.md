@@ -4,7 +4,7 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
-<img align="right" width="300" src="<iframe src="https://giphy.com/gifs/webdesign-webtasrimi-gitialmarketing-dWesBcTLavkZuG35MI" />
+<img align="right" width="300" src="<iframe src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif" />
 
 ```kotlin
 object **SEU NOME** {
@@ -39,8 +39,7 @@ object **SEU NOME** {
 <a href="https://github.com/Gurupreet">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
-
-[website]: 
+ 
 [twitter]: https://twitter.com/_murito
 [instagram]: https://www.instagram.com/wmurito
 [linkedin]: https://www.linkedin.com/in/wellington-murito-aba51760/
@@ -48,7 +47,6 @@ object **SEU NOME** {
 
 #### Rede Sociais!
 
-🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|**  
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
