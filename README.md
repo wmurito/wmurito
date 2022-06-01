@@ -29,7 +29,7 @@
 
 <br/>
 
-<a href="https://github.com/VanessaSwerts">
+<a href="https://github.com/wmurito">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanessaSwerts&theme=dracula&show_icons=true" />
 </a>
 
@@ -37,6 +37,6 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: SEU NOME](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/wellington-murito-aba51760/)
+[![Linkedin: Wellington Murito](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/wellington-murito-aba51760/)
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](elinho.murito@gmail.com)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](github.com/wmurito)
+[![GitHub wmurito]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](github.com/wmurito)
