@@ -8,8 +8,8 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
 ```kotlin
 object **SEU NOME** {
- val name = "Wellington Murito"
- val acknowledgements = "Dev"
+ val name = "DIGITE SEU NOME"
+ val acknowledgements = "ÁREA DE CONHECIMENTO"
  
  val primarySkillset = "ALGUMAS HABILIDADES"
  val languages = listOf("Html", "Python", "JavaScript", "PHP", "React") 
