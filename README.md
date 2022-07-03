@@ -6,12 +6,12 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-```kotlin
+```javascript
 object **SEU NOME** {
  var name = "DIGITE SEU NOME"
- var acknowledgements = "ÁREA DE CONHECIMENTO"
+ var occupationArea = "ÁREA DE ATUAÇÃO"
  
- var primarySkillset = "ALGUMAS HABILIDADES"
+ var skills = "ALGUMAS HABILIDADES"
  var languages = listOf("Html", "Python", "JavaScript", "PHP", "React") 
 
 }
@@ -28,9 +28,9 @@ object **SEU NOME** {
 
 
 ## **GitHub Estatísticas**
-<p> [![wmurito](https://github-readme-stats.vercel.app/api?username=wmurito&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)</p>
 
-<p> [![wmurito](https://github-readme-stats.vercel.app/api/top-langs/?username=wmurito&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)</P>
+[![wmurito](https://github-readme-stats.vercel.app/api/top-langs/?username=wmurito&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![wmurito](https://github-readme-stats.vercel.app/api?username=wmurito&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://codedev.ga/
 [twitter]: https://twitter.com/_murito
