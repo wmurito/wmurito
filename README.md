@@ -28,9 +28,9 @@ object **SEU NOME** {
 
 
 ## **GitHub Estatísticas**
-[![wmurito](https://github-readme-stats.vercel.app/api?username=wmurito&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<p> [![wmurito](https://github-readme-stats.vercel.app/api?username=wmurito&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)</p>
 
-[![wmurito](https://github-readme-stats.vercel.app/api/top-langs/?username=wmurito&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<p> [![wmurito](https://github-readme-stats.vercel.app/api/top-langs/?username=wmurito&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)</P>
 
 [website]: https://codedev.ga/
 [twitter]: https://twitter.com/_murito
