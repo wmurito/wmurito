@@ -4,7 +4,7 @@
 Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
 
-<img align="right" width="300" src="https://www.ubblie.com/src/img/gifs/fcf7fd0c619bb87706533079240915f3.gif" />
+<img align="right" width="250" src="https://www.ubblie.com/src/img/gifs/fcf7fd0c619bb87706533079240915f3.gif" />
 
 ```javascript
 object **SEU NOME** {
