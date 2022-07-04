@@ -4,7 +4,7 @@
 Me chamo Wellington Murito, sou estudante de Engenharia de software, apaixonado por tecnologia desde criança, criei meu gosto por programação nos jogos, inicialmente no Tibia e servidores de GTA, adoro aprender coisas novas e compartilhar conhecimento.
 
 
-<img align="right" width="250" src="https://www.ubblie.com/src/img/gifs/fcf7fd0c619bb87706533079240915f3.gif" />
+<img align="right" width="350" src="https://www.ubblie.com/src/img/gifs/fcf7fd0c619bb87706533079240915f3.gif" />
 
 ```javascript
 class Skills extends Lingugens{
