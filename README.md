@@ -32,7 +32,7 @@ class Skills extends Lingugens{
 ## **GitHub Estatísticas**
 
 [![wmurito](https://github-readme-stats.vercel.app/api/top-langs/?username=wmurito&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-[![wmurito](https://github-readme-stats.vercel.app/api?username=wmurito&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <p align="left">
