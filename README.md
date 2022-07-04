@@ -33,8 +33,14 @@ object **SEU NOME** {
 [![wmurito](https://github-readme-stats.vercel.app/api?username=wmurito&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
-![instagram](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
-![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-<br>
+<p align="left">
+  <a href="https://www.instagram.com/wmurito/" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/iuricode"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/wellington-murito-aba51760" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/iuricode"/>
+  </a>
+  
+</p>
 
