@@ -7,6 +7,7 @@ Me chamo Wellington Murito, sou estudante de Engenharia de software, apaixonado 
 <img align="right" width="250" src="https://www.ubblie.com/src/img/gifs/fcf7fd0c619bb87706533079240915f3.gif" />
 
 ~~~javascript
+
 class Skills extends Linguagens{
     #VsCode;
     #Python;
