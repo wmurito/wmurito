@@ -24,7 +24,7 @@ Carrego valores, que compartilho com meus colegas e procuro em locais de trabalh
 
 ## **GitHub Estatísticas**
 
-[![wmurito](https://github-readme-stats.vercel.app/api?username=wmurito=true&theme=radical)
+![wmurito](https://github-readme-stats.vercel.app/api?username=wmurito=true&theme=radical)
 
 
 
