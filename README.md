@@ -22,7 +22,7 @@ Carrego valores, que compartilho com meus colegas e procuro em locais de trabalh
 
 
 
-![snake gif](https://github.com/wmurito/wmurito/blob/output/github-contribution-grid-snake.svg)
+
 
 ## **GitHub Estatísticas**
 
