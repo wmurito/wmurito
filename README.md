@@ -1,7 +1,13 @@
 
 ### Oie devs 👋
 
-Me chamo Wellington Murito, sou estudante de Engenharia de software, apaixonado por tecnologia desde criança, criei meu gosto por programação nos jogos, inicialmente no Tibia e servidores de GTA, adoro aprender coisas novas e compartilhar conhecimento.
+Software Engineering Student - FullStack Developer - Javascript enthusiast - React/NextJs
+
+Desde muito novo sou apaixonado por tecnologia, sempre me envolvi em comunidades de tecnologia, hoje minha paixão são Desenvolvimento Web, Software e tudo que envolve processos de criação. Ingressei na faculdade de Eng de Software.
+Engajado em me desenvolver e experimentar, busco compartilhar conhecimento a fim de contribuir com o desenvolvimento de outras pessoas, pois acredito que posso ajudar próximas gerações e ainda testar oque aprendi.
+Busco a melhor maneira de solucionar problemas e resolver bugs em sistemas é a esse nicho que me dedico neste momento.
+Carrego valores, que compartilho com meus colegas e procuro em locais de trabalho, valores como compromisso, honestidade, ética, empatia, responsabilidade e pro atividade.
+
 
 
 ## **Linguagens e Ferramentas:**  
