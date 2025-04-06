@@ -4,7 +4,7 @@
 
 Desde muito novo sou apaixonado por tecnologia, e ao longo da minha jornada, me envolvi com diversas áreas do desenvolvimento. Hoje, minha paixão é a **Engenharia de Dados** — unir programação, arquitetura de dados e cloud para transformar dados brutos em insights poderosos.
 
-Sou estudante de Engenharia de Software, com foco atual em **engenharia de dados, data pipelines e arquitetura de dados moderna**. Estou sempre buscando entender como dados podem impulsionar decisões e criar impacto real nos negócios.
+Engenheiro de Dados em formação pela Puc Minas, com foco atual em **engenharia de dados, data pipelines e arquitetura de dados moderna**. Estou sempre buscando entender como dados podem impulsionar decisões e criar impacto real nos negócios.
 
 Sou movido por desafios, amo resolver bugs complexos e encontrar soluções eficientes e escaláveis para problemas do mundo real. Carrego comigo valores como compromisso, ética, empatia, responsabilidade e pró-atividade — e acredito fortemente no poder da colaboração e do compartilhamento de conhecimento.
 
