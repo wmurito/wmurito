@@ -14,10 +14,9 @@ Sou movido por desafios, amo resolver bugs complexos e encontrar soluções efic
 
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" /></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" /></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" /></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original-wordmark.svg"/></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /></code>
 
